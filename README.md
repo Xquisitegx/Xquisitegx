@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khng0624@gmail.com**
 
-- 📄 Know about my experiences [https://xquisitegx.github.io/Portfolio/skills.html](https://xquisitegx.github.io/Portfolio/skills.html)
+- 📄 Know about my experiences [https://danny-nguyen-portfolio.netlify.app](https://danny-nguyen-portfolio.netlify.app)
 
 - ⚡ Fun fact **I spend most of my time indulging myself in life about what could happen...**
 
