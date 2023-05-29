@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xquisitegx&label=Profile%20views&color=0e75b6&style=flat" alt="xquisitegx" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://xquisitegx.github.io/Portfolio/main.html](https://xquisitegx.github.io/Portfolio/main.html)
+- 👨‍💻 All of my projects are available at [https://danny-nguyen-portfolio.netlify.app](https://danny-nguyen-portfolio.netlify.app)
 
 - 💬 Ask me about **React, Node.js, Python, Machine Learning and more!**
 
 - 📫 How to reach me **khng0624@gmail.com**
-
-- 📄 Know about my experiences [https://danny-nguyen-portfolio.netlify.app](https://danny-nguyen-portfolio.netlify.app)
 
 - ⚡ Fun fact **I spend most of my time indulging myself in life about what could happen...**
 
